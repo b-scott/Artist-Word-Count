@@ -25,7 +25,7 @@ pip install numpy
 
 ## Running the Project
 
-Once the prerequisites have been satisfied, the project can be ran from the command line by redirecting to the directory containing the project and running the following command:
+Once the prerequisites have been satisfied, the project can be ran from the command line by redirecting to the Artist_Word_Count directory and running the following command:
 
 ```
 python Artist_Word_Count.py
