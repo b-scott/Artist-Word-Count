@@ -6,7 +6,7 @@ import seaborn as sns
 import numpy as np
 
 # ENTER CLIENT ACCESS TOKEN HERE
-genius = lyricsgenius.Genius("l6JmzxycBUtAfcELQxbywj0xEj69ujyZspf5cQVOHwqX0mWWiC2V8CbU-PrHyFpQ")
+genius = lyricsgenius.Genius("YOURCLIENTACCESSTOKEN")
 
 # artist input, surrounded with try catch in case the artist is not found
 artist = input('Please enter the name of an artist: ')
